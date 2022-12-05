@@ -22,5 +22,7 @@ public class AccountHolderObjects {
 		henry.accountBalance=20000;
 		henry.testEligibilityForCreditCard();
 		System.out.println("Is Henry Eligible For credit card:" +henry.eligibleForCreditCard);
+		System.out.println("Is Henry Eligible For credit card:" +henry.eligibleForCreditCard);
 	}
 }
+
